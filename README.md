@@ -1,3 +1,4 @@
+<img width="800" height="967" alt="thubkali" src="https://github.com/user-attachments/assets/0b7c3742-2c6b-4eea-9237-c3abad88d842" />
 # stl-thumbnailer-kali
 
 Automatyczne miniatury plików STL w Thunarze (Kali / XFCE) z użyciem OpenSCAD.
